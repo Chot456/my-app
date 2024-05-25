@@ -108,6 +108,11 @@ export default function Home() {
           </p>
         </a>
       </div>
+      <div 
+        className="rounded-lg border text-center hover:border-gray-300 hover:bg-gray-100 hover:dark:border-neutral-700"
+        >
+        <h1 className="text-3xl font-bold underline">POKEDEX</h1>
+      </div>
     </main>
   );
 }
